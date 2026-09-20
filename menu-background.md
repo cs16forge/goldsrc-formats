@@ -1,7 +1,8 @@
 # Menu background: TGA tiles and `BackgroundLayout.txt`
 
 The main-menu picture of Counter-Strike 1.6 / Half-Life is a grid of TGA tiles placed by a small
-text file. Everything you need to read or build one is below.
+text file. Full manual with code (slice an image into tiles, stitch tiles back, zero dependencies):
+**[goldsrc-menu-background](https://github.com/cs16forge/goldsrc-menu-background)**.
 
 Ready-made packs: [cs16forge.com/backgrounds](https://cs16forge.com/backgrounds/) ·
 guide: [How to change the menu background in CS 1.6](https://cs16forge.com/guides/how-to-change-menu-background-cs-16/).
@@ -39,8 +40,7 @@ Stock header: `00 00 02 00 00 00 00 00 00 00 00 00 00 01 00 01 18 00`.
 
 **Widescreen** — the frame is stretched to the screen; a 4:3 picture is 33 % wider on 16:9.
 
-A companion library and CLI (slice an image into tiles, stitch tiles back, zero dependencies) is
-on the way; this page is the specification it implements.
+Verification status for each claim is in the manual.
 
 ---
 Source: [cs16forge.com](https://cs16forge.com/) · CC BY 4.0

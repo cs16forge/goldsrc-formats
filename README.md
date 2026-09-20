@@ -53,8 +53,11 @@ generated sample before it is committed.
 
 ## Citing
 
-Text is licensed under [CC BY 4.0](LICENSE): quote and reuse freely, with attribution
-"cs16forge.com" and a link to the page. See [`CITATION.cff`](CITATION.cff).
-Schemas under `schemas/` are [MIT](LICENSE-schemas).
+All text in this repository is licensed under [CC BY 4.0](LICENSE): quote and reuse it freely,
+including commercially, as long as you credit "cs16forge.com" and link to the page you used.
+See [`CITATION.cff`](CITATION.cff).
+
+The Kaitai schemas under [`schemas/`](schemas/) are [MIT](schemas/LICENSE) instead, so you can
+drop them into any project without an attribution requirement.
 
 Not affiliated with or endorsed by Valve. Half-Life and Counter-Strike are trademarks of Valve Corporation.

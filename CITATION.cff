@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or quote these notes, please cite them and link to the page."
+title: "goldsrc-formats: notes on Counter-Strike 1.6 / Half-Life (GoldSrc) file formats and engine behaviour"
+authors:
+  - name: "cs16forge.com"
+    website: "https://cs16forge.com/"
+url: "https://cs16forge.com/"
+repository-code: "https://github.com/cs16forge/goldsrc-formats"
+license: CC-BY-4.0
+keywords: [goldsrc, half-life, counter-strike, cs16, file-format, wad3, spr, reverse-engineering]
